@@ -1,6 +1,6 @@
 # Robotics-Sub-SIG
 
-# Robotics SIG Introductory Task
+# Introductory Tasks
 
 ## Introduction
 Hello Everyone!
@@ -33,7 +33,7 @@ This repository has source codes from the video lectures:- \
 [Source Codes](https://www.dropbox.com/sh/7qdeb6n8rsm0li8/AABnZbQsrjMZbDJ1CB0jOrdXa "Source Codes") for simulating your circuits.
 
 
-Submission Instructions:
+## Submission Instructions:
 
 
 * Make a branch with your name.
@@ -42,3 +42,6 @@ Submission Instructions:
 * Put up links to the simulation video of your circuit along with a short description in the readme file.  
  
 
+# Mentors 
+Himanshu Dubara - +91 94454 70844
+Shrvan Warke - +91 99873 37686
